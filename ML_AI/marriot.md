@@ -5,8 +5,8 @@ Can you inherit data breaches in IT security?
 The answer is a resounding yes. 
 It happened to the Marriott hotel chains in 2018,
 and has become part of the lore of the digital security world,
-one of the most infamous data breaches in it history,
-and standing in most top lists for computer and network security breaches.
+one of the most infamous data breaches in its history,
+and finding a home in most top ten lists for computer and network security breaches.
 
 The reason for the RATs is the same as any data breach, 
 theft, 
@@ -139,4 +139,21 @@ the security service of the guest's financial institution,
 or another designated party.
 The Marriot also included fraud loss reimbursement coverage and unlimited fraud consultation services for one year. 
 A quarter million of Marriott's guests availed themselves of the service by the end of February,
-2019.
+
+
+The Marriott Hotel case illustrates how security is everybody's concern. 
+We live in a time where digital security is mandatory and should be a serious consideration in any acquisition or merger in which the purchaser is inheriting network systems with sensitive data.
+The Marriott Hotel case highlights how liability can be inherited by the merger of another computer system with inferior security or improper security auditing. 
+There are a couple ways to deal with this. 
+The first is to make sure that you have the very best security to recognize human interaction on your system. 
+In this domain hCaptcha&trade; is best in class. 
+It employs the latest in machine learning (ML) and human verification technologies.  
+The other remedy is legal. 
+It may be necessary to write acquisition contracts in which a post-purchase security breach in the inherited system is the liability of the seller.
+Security standards among organizations should be mandatory,
+but they're not,
+and there is only so much that can be done through due dilligence in the area of system security,
+especially if a RAT is already nested in the system.
+It's a matter for the courts and lawyers. 
+The lesson for the entire IT industry is that the very best in human verification technology should be employed in all systems,
+but especially in systems that preseve sensitive financial and personal data like passport numbers.
